@@ -71,7 +71,7 @@ function unroll(squareArray) {
         }
     }
 
-
+return newArray;
 
 }
 
